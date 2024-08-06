@@ -2,7 +2,7 @@
 #include "common.h"
 #include "debug.h"
 
-// TODO: continue
+// TODO: this is an attempt at challenge 1 from
 // [here](https://craftinginterpreters.com/chunks-of-bytecode.html#challenges)
 int main(int argc, const char *argv[]) {
   Chunk chunk;
