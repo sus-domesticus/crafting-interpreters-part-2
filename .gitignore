@@ -3,6 +3,7 @@
 
 ### Custom ###
 build/
+.cache/
 
 ### C ###
 # Prerequisites
